@@ -16,6 +16,11 @@ bin/
 gen/
 out/
 
+.idea/
+.cxx/
+
+*.o
+
 # Gradle files
 .gradle/
 build/
